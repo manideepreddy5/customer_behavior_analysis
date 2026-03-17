@@ -4,6 +4,9 @@ Customer Behavior Analysis using Python, MySQL, and Power BI
 # Dashboard Preview
 <img width="1332" height="738" alt="Screenshot 2026-03-16 201937" src="https://github.com/user-attachments/assets/7c937555-da3f-4e86-892c-42e83fbfc94f" />
 
+This dashboard provides insights into customer demographics, purchasing behavior, and revenue distribution to support data-driven decision-making.
+
+
 This project focuses on analyzing customer shopping behavior to generate business insights and support data-driven decision-making.
 
 # Step 1: Data Processing (Python)
